@@ -12,8 +12,6 @@ Das wichtigste Herkunftsland von Asylsuchenden im Jahr 2019 war weiterhin Eritre
 
 
 
-##Ausblick Asylgesuche 2020
+## Ausblick Asylgesuche 2020
 
 Für 2020 rechnet das Staatssekretariat für Migration (SEM) gemäss dem wahrscheinlichsten Szenario mit 15 000 neuen Asylgesuchen (± 2000 Gesuche). Angesichts der zahlreichen Krisen- und Konfliktherde im Nahen Osten und auf dem afrikanischen Kontinent ist das Migrationspotenzial weiterhin hoch. Deshalb ist 2020 auch ein erneuter Anstieg der Asylgesuche möglich.
-
-![APPLogo](/app.jpg)
