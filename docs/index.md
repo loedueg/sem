@@ -8,7 +8,7 @@ Wichtigste Herkunftsländer von Asylsuchenden
 Das wichtigste Herkunftsland von Asylsuchenden im Jahr 2019 war weiterhin Eritrea (2899 Gesuche). Weitere wichtige Herkunftsländer waren Afghanistan (1397 Gesuche), die Türkei (1287 Gesuche) und Syrien (1100 Gesuche).  
 
 
-<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=85452ae5-2be5-41a9-9af1-41252630ae7c&autoAuth=true&ctid=8d5f0453-42e2-4219-966c-2f7305cfa68a&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLWQtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1140" height="650" src="https://app.powerbi.com/reportEmbed?reportId=85452ae5-2be5-41a9-9af1-41252630ae7c&autoAuth=true&ctid=8d5f0453-42e2-4219-966c-2f7305cfa68a&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLWQtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
@@ -16,3 +16,4 @@ Das wichtigste Herkunftsland von Asylsuchenden im Jahr 2019 war weiterhin Eritre
 
 Für 2020 rechnet das Staatssekretariat für Migration (SEM) gemäss dem wahrscheinlichsten Szenario mit 15 000 neuen Asylgesuchen (± 2000 Gesuche). Angesichts der zahlreichen Krisen- und Konfliktherde im Nahen Osten und auf dem afrikanischen Kontinent ist das Migrationspotenzial weiterhin hoch. Deshalb ist 2020 auch ein erneuter Anstieg der Asylgesuche möglich.
 
+<img src="https://user-images.githubusercontent.com/77983900/105753635-4c29ef00-5f49-11eb-8307-87d48fc0fc9e.jpg" width="100" height="50">
