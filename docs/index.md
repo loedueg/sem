@@ -8,8 +8,7 @@ Wichtigste Herkunftsländer von Asylsuchenden
 Das wichtigste Herkunftsland von Asylsuchenden im Jahr 2019 war weiterhin Eritrea (2899 Gesuche). Weitere wichtige Herkunftsländer waren Afghanistan (1397 Gesuche), die Türkei (1287 Gesuche) und Syrien (1100 Gesuche).  
 
 
-<iframe width="800" height="836" src="https://app.powerbi.com/view?r=eyJrIjoiNTE3YjczM2MtZjQzNC00NmY0LWFkNzctNmJhYjU4NzNiMmRlIiwidCI6IjhkNWYwNDUzLTQyZTItNDIxOS05NjZjLTJmNzMwNWNmYTY4YSIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
-
+<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTE3YjczM2MtZjQzNC00NmY0LWFkNzctNmJhYjU4NzNiMmRlIiwidCI6IjhkNWYwNDUzLTQyZTItNDIxOS05NjZjLTJmNzMwNWNmYTY4YSIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 ## Ausblick Asylgesuche 2020
